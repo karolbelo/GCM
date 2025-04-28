@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "hello world2" 
+=======
+"novo arquivo de testes" 
+>>>>>>> 87b3943ff5106f766680c1d959d54edd11059551
